@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1574581809142,
+  "timestamp": 1574582183111,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -56,7 +56,7 @@
     "/assets/images/developed-with-youtube-sentence-case-light.png": "5e464a581cf659c50cadc5606cba4f2e62c881f8",
     "/assets/privacy-policy.txt": "02fd28d19f011dd75ff2e2483b67c664edfabee5",
     "/favicon.ico": "6cf8ada4691f9c8311889101d975fe925597ec22",
-    "/index.html": "d6d82be7053bb2ad594083903b6a331a554e7594",
+    "/index.html": "84bc483aa4868ee558affb3504976c9ee9b608e6",
     "/main-es2017.cab51b24215068461b03.js": "72a043e773c203bfff92ee5cf256a7c20305c8de",
     "/polyfills-es2017.0b9dac9570f11d9baeaa.js": "6cb573274361e04d36f049d09f240d86d1f1f278",
     "/polyfills-es5-es2017.7821d8c65bb5c7a23e66.js": "02ff7538bef3f3969aed6e46d61cf2f86730ab5f",
