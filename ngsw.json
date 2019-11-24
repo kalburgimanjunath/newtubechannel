@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1574574500633,
+  "timestamp": 1574581809142,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,11 +11,11 @@
         "/5-es2017.fd04f5017183c914c8d5.js",
         "/favicon.ico",
         "/index.html",
-        "/main-es2017.9d46a461ae965477b01d.js",
+        "/main-es2017.cab51b24215068461b03.js",
         "/polyfills-es2017.0b9dac9570f11d9baeaa.js",
         "/polyfills-es5-es2017.7821d8c65bb5c7a23e66.js",
         "/runtime-es2017.65c804240c6b13231520.js",
-        "/styles.47ab9632d35780a3dfc7.css"
+        "/styles.8e266dba2fa202e868b2.css"
       ],
       "patterns": []
     },
@@ -56,12 +56,12 @@
     "/assets/images/developed-with-youtube-sentence-case-light.png": "5e464a581cf659c50cadc5606cba4f2e62c881f8",
     "/assets/privacy-policy.txt": "02fd28d19f011dd75ff2e2483b67c664edfabee5",
     "/favicon.ico": "6cf8ada4691f9c8311889101d975fe925597ec22",
-    "/index.html": "0ea93608334052159e412671a20a3b7bbb92e01d",
-    "/main-es2017.9d46a461ae965477b01d.js": "a2c5ac5a0671cd38c2aa2b6af7ec1a2a13add7a5",
+    "/index.html": "d6d82be7053bb2ad594083903b6a331a554e7594",
+    "/main-es2017.cab51b24215068461b03.js": "72a043e773c203bfff92ee5cf256a7c20305c8de",
     "/polyfills-es2017.0b9dac9570f11d9baeaa.js": "6cb573274361e04d36f049d09f240d86d1f1f278",
     "/polyfills-es5-es2017.7821d8c65bb5c7a23e66.js": "02ff7538bef3f3969aed6e46d61cf2f86730ab5f",
     "/runtime-es2017.65c804240c6b13231520.js": "cb6d3754fd5ceb0d3116f61cea4e6bd4d6a3bf1b",
-    "/styles.47ab9632d35780a3dfc7.css": "f572ee7449fbc507372d3477b54bc016994de812"
+    "/styles.8e266dba2fa202e868b2.css": "88bc5102a0abf2152c019271e985db5b7f5dabc4"
   },
   "navigationUrls": [
     {
