@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1574899723827,
+  "timestamp": 1574900001100,
   "index": "echoes-player/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "echoes-player/5-es2017.fd04f5017183c914c8d5.js",
         "echoes-player/favicon.ico",
         "echoes-player/index.html",
-        "echoes-player/main-es2017.cab51b24215068461b03.js",
+        "echoes-player/main-es2017.175f48228ab172372380.js",
         "echoes-player/polyfills-es2017.0b9dac9570f11d9baeaa.js",
         "echoes-player/polyfills-es5-es2017.7821d8c65bb5c7a23e66.js",
         "echoes-player/runtime-es2017.65c804240c6b13231520.js",
@@ -56,8 +56,8 @@
     "echoes-player/assets/images/developed-with-youtube-sentence-case-light.png": "5e464a581cf659c50cadc5606cba4f2e62c881f8",
     "echoes-player/assets/privacy-policy.txt": "02fd28d19f011dd75ff2e2483b67c664edfabee5",
     "echoes-player/favicon.ico": "6cf8ada4691f9c8311889101d975fe925597ec22",
-    "echoes-player/index.html": "91da3de8e148bfac0830d0476f698a2691b05f27",
-    "echoes-player/main-es2017.cab51b24215068461b03.js": "72a043e773c203bfff92ee5cf256a7c20305c8de",
+    "echoes-player/index.html": "4c34bdbfd6f2b407df199a90ac8ed217cdbadd69",
+    "echoes-player/main-es2017.175f48228ab172372380.js": "60157898a40adcc702c70eda2c8710f19fcb734f",
     "echoes-player/polyfills-es2017.0b9dac9570f11d9baeaa.js": "6cb573274361e04d36f049d09f240d86d1f1f278",
     "echoes-player/polyfills-es5-es2017.7821d8c65bb5c7a23e66.js": "02ff7538bef3f3969aed6e46d61cf2f86730ab5f",
     "echoes-player/runtime-es2017.65c804240c6b13231520.js": "cb6d3754fd5ceb0d3116f61cea4e6bd4d6a3bf1b",
