@@ -18,3 +18,17 @@ button-group {
     border-bottom-right-radius: 3px;
   }
 }
+.custmenu{
+    display: flex;
+    top: 50px;
+    flex-wrap: wrap;
+    position: absolute;
+    max-height: 200px;
+    /* overflow: auto; */
+    min-width: 200px;
+}
+
+.custmenu button{
+  display: table;
+    max-width: 100px;
+}

@@ -25,13 +25,21 @@ const initialState: IPlayerSearch = {
     { label: 'Dance', value: CPresetTypes.DANCE },
     { label: 'Strong zumba', value: CPresetTypes.STRONGBYZUMBA },
     { label: 'Motivation', value: CPresetTypes.MOTIVATIONAL },
-    // { label: 'Sitar', value: CPresetTypes.SITAR },
-    // { label: 'Vedic chants', value: CPresetTypes.VEDIC },
-    // { label: 'For Kids', value: CPresetTypes.KIDS },
+    { label: 'Sitar', value: CPresetTypes.SITAR },
+    { label: 'Vedic chants', value: CPresetTypes.VEDIC },
+    { label: 'For Kids', value: CPresetTypes.KIDS },
     { label: 'Bollywood', value: CPresetTypes.BOLLYWOOD } ,
     { label: 'Cult fit', value: CPresetTypes.CULT },
-    { label: 'Workout', value: CPresetTypes.WORKOUT }
-    //{ label: 'Sex', value: CPresetTypes.SEX }       
+    { label: 'Workout', value: CPresetTypes.WORKOUT },
+    { label: 'ielts', value: CPresetTypes.IELTS },
+    { label: 'cbsc', value: CPresetTypes.CBSE },
+    // { label: 'Sex', value: CPresetTypes.SEX }
+    { label: 'Locking', value: CPresetTypes.LOCKINGDANCE },
+    { label: 'Popping', value: CPresetTypes.POPPINGDANCE },
+    { label: 'Hip pop', value: CPresetTypes.HIPPOP },
+    { label: 'TML', value: CPresetTypes.TML },
+    { label: 'Salsa', value: CPresetTypes.SALSA },     
+    { label: 'History', value: CPresetTypes.HISTORY } 
   ],
   pageToken: {
     next: '',

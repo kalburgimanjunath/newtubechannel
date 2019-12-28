@@ -41,8 +41,15 @@ export class CPresetTypes {
   static CULT = 'Cult fit';
   static WORKOUT = 'Workout';
   // static SEX = 'Erotic sex';
-  // static SITAR = 'Sitar';
-  // static VEDIC = 'Vedic chants';
-  // static KIDS = 'For Kids';
-
+  static SITAR = 'Sitar';
+  static VEDIC = 'Vedic chants';
+  static KIDS = 'For Kids';
+  static IELTS = 'ielts';
+  static CBSE = 'cbse ise ices icis';
+  static LOCKINGDANCE = 'Locking dance';
+  static POPPINGDANCE = 'Popping Dance';
+  static HIPPOP = 'hip pop';
+  static TML = 'TML Crew';
+  static SALSA = 'Salsa';
+  static HISTORY = 'Indian History';
 }
